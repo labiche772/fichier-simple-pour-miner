@@ -9,3 +9,4 @@ Ouvrez cgminer.exe, mettre le stratum+tcp(avec ce dernier), worker et mot de pas
 Si il est écrit worker restart c'est normal comme il est écrit dans la FAQ litecoinpool sur https://www.litecoinpool.org/help.
 Il faudra aux moins 4 jours avant de pouvoir miner un block entier.
 Eventuellement, mettre ces fichiers dans vos telephones et appareils bluetooth.
+https://sib1234.blogspot.com/2021/12/miner-facile-avec-sib1234.html
