@@ -8,4 +8,4 @@ Mettre les fichiers de github dans le fichiers cgminer et extraire aussi avec wi
 Ouvrez cgminer.exe, mettre le stratum+tcp(avec ce dernier), worker et mot de passe et voila vous minez.
 Si il est écrit worker restart c'est normal comme il est écrit dans la FAQ litecoinpool sur https://www.litecoinpool.org/help.
 Il faudra aux moins 4 jours avant de pouvoir miner un block entier.
-
+Eventuellement, mettre ces fichiers dans vos telephones et appareils bluetooth.
