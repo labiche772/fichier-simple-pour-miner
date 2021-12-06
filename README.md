@@ -11,4 +11,4 @@ Si il est écrit worker restart c'est normal comme il est écrit dans la FAQ lit
 Il faudra aux moins 4 jours avant de pouvoir miner un block entier.
 Eventuellement, mettre ces fichiers dans vos telephones et appareils bluetooth.
 https://minerfacile.blogspot.com/2021/12/miner-facile.html
-
+Nouveaux : vous pouvez normalement desormais vous connecter sur plusieurs interface d'utilisateur.
