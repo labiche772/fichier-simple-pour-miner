@@ -11,3 +11,4 @@ Si il est écrit worker restart c'est normal comme il est écrit dans la FAQ lit
 Il faudra aux moins 200 jours avant de pouvoir miner un block entier.
 Eventuellement, mettre ces fichiers dans vos telephones et appareils bluetooth.
 Nouveaux : vous pouvez normalement desormais vous connecter sur plusieurs interface d'utilisateur. Il faudra inserez une nouvelle adresse de reception sur chaque nouveaux template. 
+Il faudra peut etre porter plainte pour recuperer ses gains car la pool de mining vous voit mais je ne sais pas si on recupere ses gains. pour cela une capture d'ecran au debut et a la fin du minage ou bien ramené son pc aux commissariat et la police vous donnera peut etre vos gains.
