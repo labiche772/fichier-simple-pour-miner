@@ -1,3 +1,4 @@
+Nouveau : si vous minez sib sur zpool, vous êtes payé même si vous ne recevez pas de litecoin(car en litecoin le paiement c'est mieux), même si on ne vous vois pas inscrit.
 # fichier-simple-pour-miner
 Fichier simple pour miner après téléchargement cg miner ou autre Template mining.
 Connectez vos mobiles et pc en bluetooth pour miner plus. 
