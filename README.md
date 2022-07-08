@@ -3,5 +3,6 @@
 
 Plus votre gpu et ou cpu est faible plus il faudra choisir une cryptos a miner a bas prix;
 Acceptez les fichiers aupres de votre antivirus.
-Nous ne faisons plus le minage de toutes les cryptos car nous avons peur de creer des choses.
+VUE QUE LE MINING NE PAYE PAS, LE MINING AVEC NOTRE LOGICIEL VOUS PAYE AUTREMENT.
+AUGMENTER LA VITESSE DE VOS HASH MH TH SANS ANTIIRUS.
 
