@@ -1,6 +1,10 @@
 
 # fichier-simple-pour-miner
 
-Plus votre gpu et ou cpu est faible plus il faudra choisir une cryptos a miner a bas prix, mais ce n'est pas obligatoire.
-Acceptez les fichiers aupres de votre antivirus.
-
+Ajouter et extraire les fichier auprès de votre antivirus.
+Vous pouvez inscrire des choses dans la fenetres.
+inscrire comme le fichier texte "eclock service", c'est a dire :
+?:EclockService:stratum+tcp
+username
+password
+Là le mining marche bien il faudra attendre un peu avant qu'il accepte tout où une grande partie des blocs. 
